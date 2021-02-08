@@ -1,3 +1,5 @@
-int x = 1
-
-float xy = 1.55
+<<<<<<< HEAD
+int x is stupid
+=======
+int x is stupid
+>>>>>>> mergeConflictTime
