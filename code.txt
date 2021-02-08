@@ -1,0 +1,3 @@
+int x = 11
+
+float xy = 10.55
